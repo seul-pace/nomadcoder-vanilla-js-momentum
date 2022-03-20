@@ -1,0 +1,11 @@
+.first {
+    margin: 1em 0.5em 0.5em 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.margin {
+    margin-left: 0.3em;
+}
